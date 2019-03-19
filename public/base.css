@@ -1,0 +1,13 @@
+
+
+/*margins used to center text*/
+body{
+    margin: 15% 12%;
+    background-color: cornflowerblue;
+}
+
+/*required text styling*/
+h1{
+    text-align: center;
+    color: red;
+}
